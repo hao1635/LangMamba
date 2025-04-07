@@ -1,5 +1,5 @@
 # LangMamba
-Official implementation of "LLangMamba: A Language-driven Mamba Framework for Low-dose CT Denoising with Vision-language Models" 
+Official implementation of "LangMamba: A Language-driven Mamba Framework for Low-dose CT Denoising with Vision-language Models" 
 
 
 ## Updates
